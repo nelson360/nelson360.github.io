@@ -1,7 +1,11 @@
-# williamon
+# 1.0.01 Portfolio
+a simple web portfolio,that resembeles a cv
+with bulma css
 
 ## Project setup
 ```
+git clone first
+cd directory
 npm install
 ```
 
